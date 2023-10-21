@@ -5,9 +5,8 @@ regression models to find relationships between multiple variables such as signi
 among regression models, decision tree, random forest, and K-NN model for the best performance <br>
 ● Applied basic statistics and hypothesis testing concepts to measure statistical significance; discussed 
 ethical issues in the data analysis process
-<br>
-**Info370_spring2023** <br>
-**Contains all the jupyter notebook files from Info 370 class** <br>
+<br> <br>
+**Contains all the jupyter notebook files from Spring Info 370 class** <br>
 Through this class I've learned how to <br>
 ● Know the data science process and some of the ethical issues you may encounter on the way. <br>
 ● Use python for data science tasks. <br>
