@@ -1,6 +1,6 @@
 **Data Analysis of Multiple Datasets Using ML   Mar. 2023 – June. 2023** 
 ● Cleaned and prepared 11 medium-sized numeric and non-numeric datasets using Python; applied linear 
-regression models to find relationships between multiple variables such as significance
+regression models to find relationships between multiple variables such as significance <br>
 ● Utilized validation and cross-validation to choose between different machine learning models; applied 
 among regression models, decision tree, random forest, and K-NN model for the best performance
 ● Applied basic statistics and hypothesis testing concepts to measure statistical significance; discussed 
